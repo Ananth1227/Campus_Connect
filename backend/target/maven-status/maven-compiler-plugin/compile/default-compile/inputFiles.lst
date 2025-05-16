@@ -1,0 +1,8 @@
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\model\User.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\controller\AuthController.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\payload\LoginResponse.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\controller\HomeController.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\payload\LoginRequest.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\repository\UserRepository.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\CampusconnectBackendApplication.java
+D:\JAVA\Campus_Connect\backend\src\main\java\com\campusconnect\config\SecurityConfig.java

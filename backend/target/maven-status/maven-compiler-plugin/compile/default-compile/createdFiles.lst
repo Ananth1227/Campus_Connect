@@ -1,0 +1,8 @@
+com\campusconnect\controller\HomeController.class
+com\campusconnect\model\User.class
+com\campusconnect\config\SecurityConfig.class
+com\campusconnect\controller\AuthController.class
+com\campusconnect\payload\LoginResponse.class
+com\campusconnect\CampusconnectBackendApplication.class
+com\campusconnect\repository\UserRepository.class
+com\campusconnect\payload\LoginRequest.class
